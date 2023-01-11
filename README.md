@@ -11,7 +11,7 @@ A dedicated place for cool Web client side tools.
  * [Langages](#langages)
     * [Golang](#golang)
     * [Node.js](#nodejs)
-    * [python](#python)
+    * [Python](#python)
  * [Low level](#low-level)
  * [Multimedia](#multimedia)
     * [Image](#image)
@@ -28,7 +28,7 @@ A dedicated place for cool Web client side tools.
 
  * [The Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) - A web app for encryption, encoding, compression and data analysis - [Try it!](https://gchq.github.io/CyberChef/)
 
-## Beautify / Minifier
+## Beautifier / Minifier
 
  * [csso](https://github.com/css/csso) - CSS minifier with structural optimizations - [Try it!](https://css.github.io/csso/csso.html)
  * [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier - [Try it!](https://kangax.github.io/html-minifier/)
