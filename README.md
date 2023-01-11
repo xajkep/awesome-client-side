@@ -117,7 +117,7 @@ A dedicated place for cool Web client side tools.
 
 * [EasyQRCodeJS](https://github.com/ushelp/EasyQRCodeJS) - A feature-rich cross-browser pure JavaScript QRCode generation library - [Try it!](https://www.easyproject.cn/easyqrcodejs/tryit.html)
 * [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner - [Try it!](https://webqr.com/)
-* [https://github.com/PaulKinlan/qrcode] - The best web based QR Code reader on the web - [Try it!](https://github.com/PaulKinlan/qrcode)
+* [qrcode](https://github.com/PaulKinlan/qrcode) - A simple, small, progressive web app that accesses the user's camera and looks for QR Codes - [Try it!](https://github.com/PaulKinlan/qrcode)
 
 ## Security
 
