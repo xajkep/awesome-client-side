@@ -4,7 +4,8 @@ A dedicated place for cool Web client side tools.
 ## Contents
 
  * [All in one](#all-in-one)
- * [Beautify / Minifier](#beautify--minifier)
+ * [ASCII Art](#ascii-art)
+ * [Beautifier / Minifier](#beautifier--minifier)
  * [CMS](#cms)
  * [Converter](#converter)
  * [Editor](#editor)
@@ -28,6 +29,15 @@ A dedicated place for cool Web client side tools.
 
  * [The Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) - A web app for encryption, encoding, compression and data analysis - [Try it!](https://gchq.github.io/CyberChef/)
 
+## ASCII Art
+
+ * [aalib.js](https://github.com/mir3z/aalib.js) - ASCII art library in JavaScript - [Try it!](http://mir3z.github.io/aalib.js/playground/www/)
+ * [ASCII-Artist](https://github.com/alterlife/ASCII-Artist) - A pure html/javascript ASCII Art Generator
+ * [AsciiMorph](https://github.com/tholman/ascii-morph) - Library to animate between two ascii images - [Try it!](https://codepen.io/tholman/full/BQLQyo)
+ * [Dom Animator](https://github.com/tholman/dom-animator) - A nifty javascript library to run animations, hidden in comment nodes, within the dom - [Try it!](https://tholman.com/dom-animator/)
+ * [imgToAscii](https://github.com/victorqribeiro/imgToAscii) - A JavaScript implementation of a image to Ascii code - [Try it!](https://victorqribeiro.github.io/imgToAscii/)
+ * [Lettercrap](https://github.com/nate-parrott/lettercrap) - A Javascript library that generates dynamic ascii art on the web [Try it!](https://nate-parrott.github.io/lettercrap)
+
 ## Beautifier / Minifier
 
  * [csso](https://github.com/css/csso) - CSS minifier with structural optimizations - [Try it!](https://css.github.io/csso/csso.html)
@@ -50,6 +60,7 @@ A dedicated place for cool Web client side tools.
  * [cleditor](https://github.com/cleditor/cleditor) - a lightweight jQuerified HTML editor [Try it!](https://premiumsoftware.net/cleditor/)
  * [draw.io](https://github.com/jgraph/drawio) - A JavaScript, client-side editor for general diagramming and whiteboarding - [Try it!](https://app.diagrams.net/)
  * [TinyMCE](https://github.com/tinymce/tinymce) - JavaScript library for rich text editing. Available for React, Vue and Angular - [Try it!](https://www.tiny.cloud/docs/tinymce/6/premium-full-featured/)
+ * [ZenPen](https://github.com/tholman/zenpen) - A minimalist writing zone [Try it!](https://zenpen.io/)
 
 
 ## Langages
@@ -81,7 +92,9 @@ A dedicated place for cool Web client side tools.
 
  * [angular-image-crop](https://github.com/andyshora/angular-image-crop) - A better way to crop images client-side using AngularJS - [Try it!](https://jsbin.com/fovovu/1/edit?js,output)
  * [compress.js](https://github.com/alextanhongpin/compress.js) - A simple JavaScript based client-side image compression algorithm - [Try it!](https://practical-easley-4e78c7.netlify.app/)
+ * [Generative Artistry](https://github.com/tholman/generative-artistry)
  * [holder](https://github.com/imsky/holder) - Client-side image placeholders - [Try it!](http://holderjs.com/)
+ * [Intense Images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen - [Try it!](http://tholman.com/intense-images) - A website for self coding generative art tutorials - [Try it!](https://generativeartistry.com/)
  * [MarvinJ](https://github.com/gabrielarchanjo/marvinj) - Javascript Image Processing Framework based on Marvin Framework [Try it!](https://www.marvinj.org/en/examples/processingBeforeUpload.html)
  * [NSFW JS](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js [Try i!](https://nsfwjs.com/)
  * [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Image conversion and image stitching, pure front-end implementation, fast speed, privacy protection, and offline use - [Try it!](https://imagestool.com/webp2jpg-online/)
