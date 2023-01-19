@@ -43,6 +43,7 @@ A dedicated place for cool Web client side tools.
  * [csso](https://github.com/css/csso) - CSS minifier with structural optimizations - [Try it!](https://css.github.io/csso/csso.html)
  * [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier - [Try it!](https://kangax.github.io/html-minifier/)
  * [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript - [Try it!](https://beautifier.io/)
+ " [JSON Lint](https://github.com/zaach/jsonlint) - JSON parser and validator with a CLI - [Try it!](https://jsonlint.com/)
  * [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit [Try it!](https://lisperator.net/uglifyjs/)
 
 ## CMS
