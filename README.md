@@ -120,7 +120,7 @@ A dedicated place for cool Web client side tools.
 ## Peer-to-peer
 
  * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - A peer-to-peer chat app that is serverless, decentralized, and ephemeral - [Try it!](https://chitchatter.im/)
- * [FilePizza](https://github.com/kern/filepizza) - 🍕 Peer-to-peer file transfers in your browser - [Try it!]([https://files.fm/](https://file.pizza/)
+ * [FilePizza](https://github.com/kern/filepizza) - 🍕 Peer-to-peer file transfers in your browser - [Try it!](https://file.pizza/)
  * [Magnet Placer](https://ferrolho.github.io/magnet-player/) - 🎥 A place for streaming torrents directly from your browser - [Try it!](https://ferrolho.github.io/magnet-player/)
  * [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser - [Try it!](https://joinpeertube.org/browse-content)
  * [torrent-client](https://github.com/ThaUnknown/pwa-haven/tree/main/torrent-client) - Torrent Web client - [Try it!](https://haven.pages.dev/torrent-client/public/)
