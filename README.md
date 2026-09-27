@@ -99,6 +99,7 @@ A dedicated place for cool Web client side tools.
  * [MarvinJ](https://github.com/gabrielarchanjo/marvinj) - Javascript Image Processing Framework based on Marvin Framework [Try it!](https://www.marvinj.org/en/examples/processingBeforeUpload.html)
  * [NSFW JS](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js [Try i!](https://nsfwjs.com/)
  * [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Image conversion and image stitching, pure front-end implementation, fast speed, privacy protection, and offline use - [Try it!](https://imagestool.com/webp2jpg-online/)
+ * [FileOnTap](https://fileontap.com/webp-to-png) - Convert WebP images to PNG locally in the browser; no upload or account required.
 
 ### Video
 
