@@ -102,6 +102,7 @@ A dedicated place for cool Web client side tools.
 
 ### Video
 
+ * [SolveMyMedia](https://solvemymedia.com) - 100% private client-side video & audio processing suite using WebCodecs & WebAssembly - [Try it!](https://solvemymedia.com)
  * [videoinput.js](https://github.com/wgryc/video-input-js) - video-input field to make video recording easy via client-side JS - [Try it!](https://phaseai.com/resources/video-input-form-js-demo)
 
 ## Paste Service
